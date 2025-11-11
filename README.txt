@@ -93,7 +93,9 @@ pip install -r requirements.txt
 Step 3: Run the Streamlit app
 streamlit run app.py
 
-📧 Developed By:
+# 🌐 Live Demo
+[👉 Try the App Here](https://eqe7h5uad2d3orsjwyoykg.streamlit.app)
 
+📧 Developed By:
 Name: Soojal Kumar
 Email: kumarsoojal55@gmail.com
